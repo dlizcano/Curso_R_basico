@@ -9,7 +9,16 @@ En este curso aprenderemos a usar los aspectos básicos del lenguaje estadístic
 ## Antes de comenzar
 Instale en su computadora [`R`](http://cran.r-project.org/). Posteriormente instale [`RStudio`](http://www.rstudio.com/).
 
-
+```{r echo=F, warning= F, message=F}
+opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  error = FALSE,
+  tidy = FALSE,
+  cache = FALSE,
+  results = 'asis'
+)
+```
 
 ## Contenido del curso
 
