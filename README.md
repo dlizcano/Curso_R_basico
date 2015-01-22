@@ -2,11 +2,6 @@
 title: "Curso Analisis de Datos en R (basico)"
 author: "Diego J. Lizcano"
 framework: bootstrap
-output:
-  html_document:
-    keep_md: yes
-  pdf_document: default
-  word_document: default
 highlighter: prettify
 hitheme: twitter-bootstrap
 mode: selfcontained
